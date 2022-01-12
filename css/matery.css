@@ -34,7 +34,7 @@
 }
 
 body {
-    background:  linear-gradient(60deg, rgb(89, 132, 145, 0) 5%, rgb(89, 132, 145, 0) ) 0% 0% /  cover, url("https://gitee.com/wkkzoa/img/raw/master/Ie039.png"), url("https://gitee.com/wkkzoa/img/raw/master/Ie039.png") 0px 0px;
+    background:  linear-gradient(60deg, rgb(89, 132, 145, 0) 5%, rgb(89, 132, 145, 0) ) 0% 0% /  cover, url("https://gitee.com/wkkzoa/img/raw/master/Ie03.png"), url("https://gitee.com/wkkzoa/img/raw/master/Ie03.png") 0px 0px;
     background-attachment: fixed;
     margin: 0;
     color: #000
@@ -197,7 +197,7 @@ kbd {
     font-size: 0.9rem;
     font-weight: 600;
     background-color: #f8f8f8;
-    color: #598491;
+    color: #4a8192;
     line-height: 1.8rem;
     white-space: nowrap;
 }
@@ -1084,12 +1084,12 @@ article .article-tags .chip {
 }
 
 #artDetail .post-info {
-    color: #598491;
+    color: #4a8192;
 }
 
 #artDetail .post-info .post-category {
     padding-right: 4px;
-    color: #598491;
+    color: #4a8192;
 }
 
 #artDetail .post-info .post-category:hover {
@@ -1099,7 +1099,7 @@ article .article-tags .chip {
 }
 
 #artDetail .post-info .post-date {
-    color: #598491;
+    color: #4a8192;
 }
 
 #artDetail .post-info .post-word-count {
@@ -1108,7 +1108,7 @@ article .article-tags .chip {
 
 #artDetail .post-info .post-read {
     margin-left: 15px;
-    color: #598491;
+    color: #4a8192;
 }
 
 #artDetail .article-card-content {
@@ -1628,8 +1628,8 @@ thead {
     margin: 0 0.5rem;
     padding: 0;
     color: #fff;
-    border: 1px solid #598491;
-    background: radial-gradient(#598491, #598491);
+    border: 1px solid #4a8192;
+    background: radial-gradient(#4a8192, #4a8192);
     font-size: 0.9rem;
     border-radius: 50%;
     box-shadow: 0 4px 6px rgba(50, 50, 93, .21), 0 2px 3px rgba(0, 0, 0, .1);
@@ -1715,7 +1715,7 @@ thead {
 }
 
 .my-projects .info .info-title a {
-    color: #598491;
+    color: #4a8192;
 }
 
 .my-projects .info .info-desc {
@@ -1967,7 +1967,7 @@ p.search-result-summary{
 }
 
 .center-caption {
-    color: #598491;
+    color: #4a8192;
     padding: 5px;
     border-bottom: 1px solid #d9d9d9;
 }
