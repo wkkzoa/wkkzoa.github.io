@@ -37,7 +37,7 @@ body {
     background:  linear-gradient(60deg, rgb(89, 132, 145, 0) 5%, rgb(89, 132, 145, 0) ) 0% 0% /  cover, url("https://gitee.com/wkkzoa/img/raw/master/Ie039.png"), url("https://gitee.com/wkkzoa/img/raw/master/Ie039.png") 0px 0px;
     background-attachment: fixed;
     margin: 0;
-    color: #7F95D1;
+    color: #000
 }
 
 h1 {
@@ -197,7 +197,7 @@ kbd {
     font-size: 0.9rem;
     font-weight: 600;
     background-color: #f8f8f8;
-    color: #34495e;
+    color: #598491;
     line-height: 1.8rem;
     white-space: nowrap;
 }
@@ -244,7 +244,7 @@ mark {
 }
 
 .text-color {
-    color: #598491 !important;
+    color: #000;
 }
 
 .white-color {
@@ -313,9 +313,9 @@ header .side-nav .mobile-head {
 
 header .side-nav .mobile-head img {
     margin-top: 30px;
-    width: 75px;
-    height: 75px;
-}
+    width: 0px;
+    height: 0px;
+} 
 
 header .side-nav .mobile-head .logo-name {
     margin-top: -30px;
@@ -324,7 +324,7 @@ header .side-nav .mobile-head .logo-name {
 }
 
 header .side-nav .mobile-head .logo-desc {
-    margin-top: -10px;
+    margin-top: 10px;
     padding-left: 10px;
     padding-bottom: 10px;
     font-size: 0.8rem;
@@ -340,13 +340,13 @@ header .side-nav .menu-list li {
 header .side-nav .menu-list a {
     height: 50px;
     line-height: 50px;
-    color: #34495e !important;
+    color: #4c160d !important;
 }
 
 .mobile-menu-list a i {
     margin-left: 8px !important;
     font-size: 1.16rem;
-    color: #34495e !important;
+    color: #4c160d !important;
 }
 
 header .side-nav .fa-fw {
@@ -868,7 +868,7 @@ header .go-back i {
 
 article a {
     margin-right: 0 !important;
-    color: #525f7f;
+    color: #000;
     text-transform: none !important;
 }
 
@@ -1057,7 +1057,7 @@ article .article-tags .chip {
     border-radius: 15px;
     margin-right: 5px;
     margin-bottom: 2px;
-    color: #4c160d;
+    color: #000;
     background: #fff;
     border: 1px solid;
     transition: all 0.6s ease-in-out;
@@ -1065,17 +1065,17 @@ article .article-tags .chip {
 
 #artDetail .tag_share .article-tag .chip:hover {
     color: #fff;
-    background: #4c160d;
+    background: #000;
 }
 
 #artDetail .post-cate {
     float: right;
-    color: #4c160d;
+    color: #000;
 }
 
 #artDetail .post-cate a {
     padding-right: 5px;
-    color: #4c160d;
+    color: #000;
     font-weight: 500;
 }
 
@@ -1084,22 +1084,22 @@ article .article-tags .chip {
 }
 
 #artDetail .post-info {
-    color: #525f7f;
+    color: #598491;
 }
 
 #artDetail .post-info .post-category {
     padding-right: 4px;
-    color: #525f7f;
+    color: #598491;
 }
 
 #artDetail .post-info .post-category:hover {
     font-weight: bold;
-    color: #4c160d;
+    color: #000;
     text-decoration: underline;
 }
 
 #artDetail .post-info .post-date {
-    color: #525f7f;
+    color: #598491;
 }
 
 #artDetail .post-info .post-word-count {
@@ -1108,7 +1108,7 @@ article .article-tags .chip {
 
 #artDetail .post-info .post-read {
     margin-left: 15px;
-    color: #525f7f;
+    color: #598491;
 }
 
 #artDetail .article-card-content {
@@ -1276,7 +1276,7 @@ thead {
 
 .chip-container .tag-title {
     margin-bottom: 10px;
-    color: #3C4858;
+    color: #4c160d;
     font-size: 1.75rem;
     font-weight: 400;
 }
@@ -1292,7 +1292,7 @@ thead {
 }
 
 .chip-container .chip-default {
-    color: #34495e;
+    color: #4c160d;
 }
 
 .chip-container .chip-active {
@@ -1715,7 +1715,7 @@ thead {
 }
 
 .my-projects .info .info-title a {
-    color: #34495e;
+    color: #598491;
 }
 
 .my-projects .info .info-desc {
@@ -1967,7 +1967,7 @@ p.search-result-summary{
 }
 
 .center-caption {
-    color: #525f7f;
+    color: #598491;
     padding: 5px;
     border-bottom: 1px solid #d9d9d9;
 }
