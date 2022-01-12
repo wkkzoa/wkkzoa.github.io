@@ -34,8 +34,7 @@
 }
 
 body {
-    /* background-color: #eaeaea; */
-    background: linear-gradient(60deg, rgba(89, 132, 145, 0.2) 5%, rgba(89, 132, 145, 0.2) ) 0% 0% /     cover, url("https://gitee.com/wkkzoa/img/raw/master/bgimg.jpg"), url("https://gitee.com/wkkzoa/img/raw/master/bgimg.jpg") 0px 0px;
+    background:  linear-gradient(60deg, rgb(89, 132, 145, 0) 5%, rgb(89, 132, 145, 0) ) 0% 0% /  cover, url("https://gitee.com/wkkzoa/img/raw/master/Ie039.png"), url("https://gitee.com/wkkzoa/img/raw/master/Ie039.png") 0px 0px;
     background-attachment: fixed;
     margin: 0;
     color: #7F95D1;
